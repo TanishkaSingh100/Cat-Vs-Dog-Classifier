@@ -8,15 +8,13 @@ The classifier was trained on the [TensorFlow Datasets (TFDS)](https://www.tenso
 ## Screenshot : 
 
 Home Page :
-[Home Page](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/screenshots/home.png)
-
 [![Home Page](/screenshots/home.png)](/screenshots/home.png)
 
 Fun Mode Output :
-[Fun Mode](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/screenshots/fun_mode_output.png)
+[![Fun Mode Output](/screenshots/fun_mode_output.png)](/screenshots/fun_mode_output.png)
 
 Basic Mode Output :
-[Basic Mode](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/screenshots/basic_mode_output.png)
+[![Basic Mode Output](/screenshots/basic_mode_output.png)](/screenshots/basic_mode_output.png)
 
 ---
 
