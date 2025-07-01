@@ -7,6 +7,9 @@ The classifier was trained on the [TensorFlow Datasets (TFDS)](https://www.tenso
 
 ## Screenshot : 
 
+Home Page :
+[Home Page](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/screenshots/home.png)
+
 Fun Mode Output :
 [Fun Mode](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/screenshots/fun_mode_output.png)
 
@@ -35,8 +38,8 @@ Basic Mode Output :
 
 - Upload JPG, JPEG, or PNG images for classification
 - Two modes:  
-  - *Fun Mode * with colorful confidence bars and emojis  
-  - *Basic Mode * with simple text results
+  - *Fun Mode* with colorful confidence bars and emojis  
+  - *Basic Mode* with simple text results
 - Sidebar with model information and credits
 - Responsive design for smooth user experience
 
@@ -61,3 +64,11 @@ Basic Mode Output :
 # Deployment Status
 
 Currently working on deployment via Hugging Face Spaces. Will update the live demo link soon!
+
+---
+
+# Author
+
+Tanishka Singh
+
+---
