@@ -5,10 +5,13 @@ This app allows users to upload an image of a cat or dog and instantly get a pre
 The classifier was trained on the [TensorFlow Datasets (TFDS)](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs) cats_vs_dogs dataset using a custom CNN architecture.
 
 
-Screenshot : 
+## Screenshot : 
 
-### Fun Mode Output
-[
+Fun Mode Output :
+[![Fun Mode](screenshots/fun_mode_output.png)](screenshots/fun_mode_output.png)
+
+Basic Mode Output :
+[![Basic Mode](screenshots/basic_mode_output.png)](screenshots/basic_mode_output.png)
 
 ---
 
