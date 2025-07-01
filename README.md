@@ -11,7 +11,7 @@ Fun Mode Output :
 [Fun Mode](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/screenshots/fun_mode_output.png)
 
 Basic Mode Output :
-[Basic Mode](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/basic_mode_output.png)
+[Basic Mode](https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier/blob/main/screenshots/basic_mode_output.png)
 
 ---
 
