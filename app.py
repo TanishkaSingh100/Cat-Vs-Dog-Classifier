@@ -42,18 +42,11 @@ with st.sidebar:
 uploaded_file = st.file_uploader("🖼 Upload Image", type=["jpg", "jpeg", "png"])
 
 # Load model
-
-# @st.cache_resource
-# def load_model():
-#     return tf.keras.models.load_model("cat_dog_model.h5")
-
 @st.cache_resource
 def load_model():
     model_path = "cat_dog_model.h5"
     if not os.path.exists(model_path):
-        # Google Drive file ID
-        file_id = "11cT5PdcMLsr5p125JByo0YQy1zKgNSuC"
-        url = f"https://drive.google.com/uc?id={file_id}"
+        url = "https://drive.google.com/uc?id=11cT5PdcMLsr5p125JByo0YQy1zKgNSuC"
         gdown.download(url, model_path, quiet=False)
     return tf.keras.models.load_model(model_path)
 
