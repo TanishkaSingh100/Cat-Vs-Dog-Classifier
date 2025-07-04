@@ -4,6 +4,8 @@ This app allows users to upload an image of a cat or dog and instantly get a pre
 
 The classifier was trained on the [TensorFlow Datasets (TFDS)](https://www.tensorflow.org/datasets/catalog/cats_vs_dogs) cats_vs_dogs dataset using a custom CNN architecture.
 
+## Live App : 
+[Click here to try it out](https://cat-vs-dog-classifier-qlbtxvb4npuummbol6xk8f.streamlit.app/)
 
 ## Screenshot : 
 
