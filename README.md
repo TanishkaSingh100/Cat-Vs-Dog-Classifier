@@ -63,12 +63,6 @@ Basic Mode Output :
 
 ---
 
-# Deployment Status
-
-Currently working on deployment via Hugging Face Spaces. Will update the live demo link soon!
-
----
-
 # Author
 
 Tanishka Singh
