@@ -53,7 +53,7 @@ Basic Mode Output :
 
    git clone https://github.com/TanishkaSingh100/Cat-Vs-Dog-Classifier.git
 
-2. Install dependencies: Make sure you're using Python Version >= 3.9
+2. Install dependencies: Make sure you're using Python Version = 3.10
 
    pip install -r requirements.txt
 
